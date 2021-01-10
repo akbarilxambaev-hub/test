@@ -1,0 +1,22 @@
+header {
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 100px;
+}
+
+.logo {
+    color: aqua;
+    font-size: 50px;
+}
+
+ul {
+    display: flex;
+}
+
+ul a {
+    color: azure;
+    font-size: 20px;
+    margin: 0 20px;
+}
+
